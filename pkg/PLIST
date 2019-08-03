@@ -1,0 +1,11 @@
+@comment $OpenBSD: PLIST,v$
+@mode 0750
+@group auth
+libexec/auth/
+@bin libexec/auth/login_yubikey_piv
+@mode 555
+@owner root
+@sample /usr/libexec/auth/login_yubikey_piv
+@mode
+@owner
+@man man/man8/login_yubikey_piv.8
