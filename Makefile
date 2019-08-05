@@ -5,7 +5,7 @@ DISTNAME =	login_yubikey_piv-${V}
 
 GH_ACCOUNT =	soundsrc
 GH_PROJECT =	login_yubikey_piv
-GH_COMMIT =	ded0543b7b1ecd1c17589a60c0677333f389ea3a
+GH_COMMIT =	49f73ebfee2c45c8bdbeb1c35fc9c1b5e587fe72
 
 CATEGORIES =	sysutils security
 
